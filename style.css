@@ -1,5 +1,30 @@
 .home{
-    background-image: url("https://pixabay.com/photos/marguerite-daisy-flower-white-729510/");
-    height: 500px;
+  background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/03/flower-hd-wallpaper-image-002.jpg") ;
+    height: 600px;
+    text-align: center;
     
+}
+
+    .explore {
+     margin: 7; 350
+      padding-top: 7px;
+    }
+      .home p  {
+        padding-top: 50px;
+      }
+        .home h1 {
+          padding-top: 50px;
+          
+        }
+.Gallery {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.gimg img {
+  width: 350px;
+}
+.team {
+  text-align: center;
+  text-decoration: underline;
 }
